@@ -1,0 +1,14 @@
+C:\Users\damla\OneDrive\Masaüstü\Veri Yapıları ve Algoritmalar - C++\TelefonRehberiUygulaması\TelefonRehberiUygulaması\bin\Debug\net8.0\TelefonRehberiUygulaması.exe
+C:\Users\damla\OneDrive\Masaüstü\Veri Yapıları ve Algoritmalar - C++\TelefonRehberiUygulaması\TelefonRehberiUygulaması\bin\Debug\net8.0\TelefonRehberiUygulaması.deps.json
+C:\Users\damla\OneDrive\Masaüstü\Veri Yapıları ve Algoritmalar - C++\TelefonRehberiUygulaması\TelefonRehberiUygulaması\bin\Debug\net8.0\TelefonRehberiUygulaması.runtimeconfig.json
+C:\Users\damla\OneDrive\Masaüstü\Veri Yapıları ve Algoritmalar - C++\TelefonRehberiUygulaması\TelefonRehberiUygulaması\bin\Debug\net8.0\TelefonRehberiUygulaması.dll
+C:\Users\damla\OneDrive\Masaüstü\Veri Yapıları ve Algoritmalar - C++\TelefonRehberiUygulaması\TelefonRehberiUygulaması\bin\Debug\net8.0\TelefonRehberiUygulaması.pdb
+C:\Users\damla\OneDrive\Masaüstü\Veri Yapıları ve Algoritmalar - C++\TelefonRehberiUygulaması\TelefonRehberiUygulaması\obj\Debug\net8.0\TelefonRehberiUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damla\OneDrive\Masaüstü\Veri Yapıları ve Algoritmalar - C++\TelefonRehberiUygulaması\TelefonRehberiUygulaması\obj\Debug\net8.0\TelefonRehberiUygulaması.AssemblyInfoInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\Veri Yapıları ve Algoritmalar - C++\TelefonRehberiUygulaması\TelefonRehberiUygulaması\obj\Debug\net8.0\TelefonRehberiUygulaması.AssemblyInfo.cs
+C:\Users\damla\OneDrive\Masaüstü\Veri Yapıları ve Algoritmalar - C++\TelefonRehberiUygulaması\TelefonRehberiUygulaması\obj\Debug\net8.0\TelefonRehberiUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\Veri Yapıları ve Algoritmalar - C++\TelefonRehberiUygulaması\TelefonRehberiUygulaması\obj\Debug\net8.0\TelefonRehberiUygulaması.dll
+C:\Users\damla\OneDrive\Masaüstü\Veri Yapıları ve Algoritmalar - C++\TelefonRehberiUygulaması\TelefonRehberiUygulaması\obj\Debug\net8.0\refint\TelefonRehberiUygulaması.dll
+C:\Users\damla\OneDrive\Masaüstü\Veri Yapıları ve Algoritmalar - C++\TelefonRehberiUygulaması\TelefonRehberiUygulaması\obj\Debug\net8.0\TelefonRehberiUygulaması.pdb
+C:\Users\damla\OneDrive\Masaüstü\Veri Yapıları ve Algoritmalar - C++\TelefonRehberiUygulaması\TelefonRehberiUygulaması\obj\Debug\net8.0\TelefonRehberiUygulaması.genruntimeconfig.cache
+C:\Users\damla\OneDrive\Masaüstü\Veri Yapıları ve Algoritmalar - C++\TelefonRehberiUygulaması\TelefonRehberiUygulaması\obj\Debug\net8.0\ref\TelefonRehberiUygulaması.dll
