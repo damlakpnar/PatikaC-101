@@ -1,0 +1,14 @@
+C:\Users\damla\OneDrive\Masaüstü\.NET\DaireCizme\DaireCizme\bin\Debug\net8.0\DaireCizme.exe
+C:\Users\damla\OneDrive\Masaüstü\.NET\DaireCizme\DaireCizme\bin\Debug\net8.0\DaireCizme.deps.json
+C:\Users\damla\OneDrive\Masaüstü\.NET\DaireCizme\DaireCizme\bin\Debug\net8.0\DaireCizme.runtimeconfig.json
+C:\Users\damla\OneDrive\Masaüstü\.NET\DaireCizme\DaireCizme\bin\Debug\net8.0\DaireCizme.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\DaireCizme\DaireCizme\bin\Debug\net8.0\DaireCizme.pdb
+C:\Users\damla\OneDrive\Masaüstü\.NET\DaireCizme\DaireCizme\obj\Debug\net8.0\DaireCizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damla\OneDrive\Masaüstü\.NET\DaireCizme\DaireCizme\obj\Debug\net8.0\DaireCizme.AssemblyInfoInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\DaireCizme\DaireCizme\obj\Debug\net8.0\DaireCizme.AssemblyInfo.cs
+C:\Users\damla\OneDrive\Masaüstü\.NET\DaireCizme\DaireCizme\obj\Debug\net8.0\DaireCizme.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\DaireCizme\DaireCizme\obj\Debug\net8.0\DaireCizme.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\DaireCizme\DaireCizme\obj\Debug\net8.0\refint\DaireCizme.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\DaireCizme\DaireCizme\obj\Debug\net8.0\DaireCizme.pdb
+C:\Users\damla\OneDrive\Masaüstü\.NET\DaireCizme\DaireCizme\obj\Debug\net8.0\DaireCizme.genruntimeconfig.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\DaireCizme\DaireCizme\obj\Debug\net8.0\ref\DaireCizme.dll
