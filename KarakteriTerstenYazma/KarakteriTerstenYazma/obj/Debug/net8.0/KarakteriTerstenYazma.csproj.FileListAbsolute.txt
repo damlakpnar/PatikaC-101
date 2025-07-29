@@ -1,0 +1,14 @@
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakteriTerstenYazma\KarakteriTerstenYazma\bin\Debug\net8.0\KarakteriTerstenYazma.exe
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakteriTerstenYazma\KarakteriTerstenYazma\bin\Debug\net8.0\KarakteriTerstenYazma.deps.json
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakteriTerstenYazma\KarakteriTerstenYazma\bin\Debug\net8.0\KarakteriTerstenYazma.runtimeconfig.json
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakteriTerstenYazma\KarakteriTerstenYazma\bin\Debug\net8.0\KarakteriTerstenYazma.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakteriTerstenYazma\KarakteriTerstenYazma\bin\Debug\net8.0\KarakteriTerstenYazma.pdb
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakteriTerstenYazma\KarakteriTerstenYazma\obj\Debug\net8.0\KarakteriTerstenYazma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakteriTerstenYazma\KarakteriTerstenYazma\obj\Debug\net8.0\KarakteriTerstenYazma.AssemblyInfoInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakteriTerstenYazma\KarakteriTerstenYazma\obj\Debug\net8.0\KarakteriTerstenYazma.AssemblyInfo.cs
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakteriTerstenYazma\KarakteriTerstenYazma\obj\Debug\net8.0\KarakteriTerstenYazma.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakteriTerstenYazma\KarakteriTerstenYazma\obj\Debug\net8.0\KarakteriTerstenYazma.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakteriTerstenYazma\KarakteriTerstenYazma\obj\Debug\net8.0\refint\KarakteriTerstenYazma.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakteriTerstenYazma\KarakteriTerstenYazma\obj\Debug\net8.0\KarakteriTerstenYazma.pdb
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakteriTerstenYazma\KarakteriTerstenYazma\obj\Debug\net8.0\KarakteriTerstenYazma.genruntimeconfig.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakteriTerstenYazma\KarakteriTerstenYazma\obj\Debug\net8.0\ref\KarakteriTerstenYazma.dll
