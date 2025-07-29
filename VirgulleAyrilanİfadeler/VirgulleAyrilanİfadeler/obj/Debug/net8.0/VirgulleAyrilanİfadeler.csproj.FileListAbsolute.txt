@@ -1,0 +1,14 @@
+C:\Users\damla\OneDrive\Masaüstü\.NET\VirgulleAyrilanİfadeler\VirgulleAyrilanİfadeler\bin\Debug\net8.0\VirgulleAyrilanİfadeler.exe
+C:\Users\damla\OneDrive\Masaüstü\.NET\VirgulleAyrilanİfadeler\VirgulleAyrilanİfadeler\bin\Debug\net8.0\VirgulleAyrilanİfadeler.deps.json
+C:\Users\damla\OneDrive\Masaüstü\.NET\VirgulleAyrilanİfadeler\VirgulleAyrilanİfadeler\bin\Debug\net8.0\VirgulleAyrilanİfadeler.runtimeconfig.json
+C:\Users\damla\OneDrive\Masaüstü\.NET\VirgulleAyrilanİfadeler\VirgulleAyrilanİfadeler\bin\Debug\net8.0\VirgulleAyrilanİfadeler.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\VirgulleAyrilanİfadeler\VirgulleAyrilanİfadeler\bin\Debug\net8.0\VirgulleAyrilanİfadeler.pdb
+C:\Users\damla\OneDrive\Masaüstü\.NET\VirgulleAyrilanİfadeler\VirgulleAyrilanİfadeler\obj\Debug\net8.0\VirgulleAyrilanİfadeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damla\OneDrive\Masaüstü\.NET\VirgulleAyrilanİfadeler\VirgulleAyrilanİfadeler\obj\Debug\net8.0\VirgulleAyrilanİfadeler.AssemblyInfoInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\VirgulleAyrilanİfadeler\VirgulleAyrilanİfadeler\obj\Debug\net8.0\VirgulleAyrilanİfadeler.AssemblyInfo.cs
+C:\Users\damla\OneDrive\Masaüstü\.NET\VirgulleAyrilanİfadeler\VirgulleAyrilanİfadeler\obj\Debug\net8.0\VirgulleAyrilanİfadeler.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\VirgulleAyrilanİfadeler\VirgulleAyrilanİfadeler\obj\Debug\net8.0\VirgulleAyrilanİfadeler.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\VirgulleAyrilanİfadeler\VirgulleAyrilanİfadeler\obj\Debug\net8.0\refint\VirgulleAyrilanİfadeler.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\VirgulleAyrilanİfadeler\VirgulleAyrilanİfadeler\obj\Debug\net8.0\VirgulleAyrilanİfadeler.pdb
+C:\Users\damla\OneDrive\Masaüstü\.NET\VirgulleAyrilanİfadeler\VirgulleAyrilanİfadeler\obj\Debug\net8.0\VirgulleAyrilanİfadeler.genruntimeconfig.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\VirgulleAyrilanİfadeler\VirgulleAyrilanİfadeler\obj\Debug\net8.0\ref\VirgulleAyrilanİfadeler.dll
