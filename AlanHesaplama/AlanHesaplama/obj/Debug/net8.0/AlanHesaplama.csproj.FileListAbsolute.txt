@@ -1,0 +1,14 @@
+C:\Users\damla\OneDrive\Masaüstü\.NET\AlanHesaplama\AlanHesaplama\bin\Debug\net8.0\AlanHesaplama.exe
+C:\Users\damla\OneDrive\Masaüstü\.NET\AlanHesaplama\AlanHesaplama\bin\Debug\net8.0\AlanHesaplama.deps.json
+C:\Users\damla\OneDrive\Masaüstü\.NET\AlanHesaplama\AlanHesaplama\bin\Debug\net8.0\AlanHesaplama.runtimeconfig.json
+C:\Users\damla\OneDrive\Masaüstü\.NET\AlanHesaplama\AlanHesaplama\bin\Debug\net8.0\AlanHesaplama.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\AlanHesaplama\AlanHesaplama\bin\Debug\net8.0\AlanHesaplama.pdb
+C:\Users\damla\OneDrive\Masaüstü\.NET\AlanHesaplama\AlanHesaplama\obj\Debug\net8.0\AlanHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damla\OneDrive\Masaüstü\.NET\AlanHesaplama\AlanHesaplama\obj\Debug\net8.0\AlanHesaplama.AssemblyInfoInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\AlanHesaplama\AlanHesaplama\obj\Debug\net8.0\AlanHesaplama.AssemblyInfo.cs
+C:\Users\damla\OneDrive\Masaüstü\.NET\AlanHesaplama\AlanHesaplama\obj\Debug\net8.0\AlanHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\AlanHesaplama\AlanHesaplama\obj\Debug\net8.0\AlanHesaplama.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\AlanHesaplama\AlanHesaplama\obj\Debug\net8.0\refint\AlanHesaplama.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\AlanHesaplama\AlanHesaplama\obj\Debug\net8.0\AlanHesaplama.pdb
+C:\Users\damla\OneDrive\Masaüstü\.NET\AlanHesaplama\AlanHesaplama\obj\Debug\net8.0\AlanHesaplama.genruntimeconfig.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\AlanHesaplama\AlanHesaplama\obj\Debug\net8.0\ref\AlanHesaplama.dll
