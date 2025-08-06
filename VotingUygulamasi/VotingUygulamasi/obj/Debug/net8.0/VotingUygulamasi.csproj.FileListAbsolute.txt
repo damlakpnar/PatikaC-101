@@ -1,0 +1,14 @@
+C:\Users\damla\OneDrive\Masaüstü\.NET\VotingUygulamasi\VotingUygulamasi\bin\Debug\net8.0\VotingUygulamasi.exe
+C:\Users\damla\OneDrive\Masaüstü\.NET\VotingUygulamasi\VotingUygulamasi\bin\Debug\net8.0\VotingUygulamasi.deps.json
+C:\Users\damla\OneDrive\Masaüstü\.NET\VotingUygulamasi\VotingUygulamasi\bin\Debug\net8.0\VotingUygulamasi.runtimeconfig.json
+C:\Users\damla\OneDrive\Masaüstü\.NET\VotingUygulamasi\VotingUygulamasi\bin\Debug\net8.0\VotingUygulamasi.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\VotingUygulamasi\VotingUygulamasi\bin\Debug\net8.0\VotingUygulamasi.pdb
+C:\Users\damla\OneDrive\Masaüstü\.NET\VotingUygulamasi\VotingUygulamasi\obj\Debug\net8.0\VotingUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damla\OneDrive\Masaüstü\.NET\VotingUygulamasi\VotingUygulamasi\obj\Debug\net8.0\VotingUygulamasi.AssemblyInfoInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\VotingUygulamasi\VotingUygulamasi\obj\Debug\net8.0\VotingUygulamasi.AssemblyInfo.cs
+C:\Users\damla\OneDrive\Masaüstü\.NET\VotingUygulamasi\VotingUygulamasi\obj\Debug\net8.0\VotingUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\VotingUygulamasi\VotingUygulamasi\obj\Debug\net8.0\VotingUygulamasi.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\VotingUygulamasi\VotingUygulamasi\obj\Debug\net8.0\refint\VotingUygulamasi.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\VotingUygulamasi\VotingUygulamasi\obj\Debug\net8.0\VotingUygulamasi.pdb
+C:\Users\damla\OneDrive\Masaüstü\.NET\VotingUygulamasi\VotingUygulamasi\obj\Debug\net8.0\VotingUygulamasi.genruntimeconfig.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\VotingUygulamasi\VotingUygulamasi\obj\Debug\net8.0\ref\VotingUygulamasi.dll
