@@ -1,0 +1,14 @@
+C:\Users\damla\OneDrive\Masaüstü\.NET\MutlakKareAlma\MutlakKareAlma\bin\Debug\net8.0\MutlakKareAlma.exe
+C:\Users\damla\OneDrive\Masaüstü\.NET\MutlakKareAlma\MutlakKareAlma\bin\Debug\net8.0\MutlakKareAlma.deps.json
+C:\Users\damla\OneDrive\Masaüstü\.NET\MutlakKareAlma\MutlakKareAlma\bin\Debug\net8.0\MutlakKareAlma.runtimeconfig.json
+C:\Users\damla\OneDrive\Masaüstü\.NET\MutlakKareAlma\MutlakKareAlma\bin\Debug\net8.0\MutlakKareAlma.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\MutlakKareAlma\MutlakKareAlma\bin\Debug\net8.0\MutlakKareAlma.pdb
+C:\Users\damla\OneDrive\Masaüstü\.NET\MutlakKareAlma\MutlakKareAlma\obj\Debug\net8.0\MutlakKareAlma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damla\OneDrive\Masaüstü\.NET\MutlakKareAlma\MutlakKareAlma\obj\Debug\net8.0\MutlakKareAlma.AssemblyInfoInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\MutlakKareAlma\MutlakKareAlma\obj\Debug\net8.0\MutlakKareAlma.AssemblyInfo.cs
+C:\Users\damla\OneDrive\Masaüstü\.NET\MutlakKareAlma\MutlakKareAlma\obj\Debug\net8.0\MutlakKareAlma.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\MutlakKareAlma\MutlakKareAlma\obj\Debug\net8.0\MutlakKareAlma.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\MutlakKareAlma\MutlakKareAlma\obj\Debug\net8.0\refint\MutlakKareAlma.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\MutlakKareAlma\MutlakKareAlma\obj\Debug\net8.0\MutlakKareAlma.pdb
+C:\Users\damla\OneDrive\Masaüstü\.NET\MutlakKareAlma\MutlakKareAlma\obj\Debug\net8.0\MutlakKareAlma.genruntimeconfig.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\MutlakKareAlma\MutlakKareAlma\obj\Debug\net8.0\ref\MutlakKareAlma.dll
