@@ -1,0 +1,14 @@
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakterDegistirme\KarakterDegistirme\bin\Debug\net8.0\KarakterDegistirme.exe
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakterDegistirme\KarakterDegistirme\bin\Debug\net8.0\KarakterDegistirme.deps.json
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakterDegistirme\KarakterDegistirme\bin\Debug\net8.0\KarakterDegistirme.runtimeconfig.json
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakterDegistirme\KarakterDegistirme\bin\Debug\net8.0\KarakterDegistirme.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakterDegistirme\KarakterDegistirme\bin\Debug\net8.0\KarakterDegistirme.pdb
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakterDegistirme\KarakterDegistirme\obj\Debug\net8.0\KarakterDegistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakterDegistirme\KarakterDegistirme\obj\Debug\net8.0\KarakterDegistirme.AssemblyInfoInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakterDegistirme\KarakterDegistirme\obj\Debug\net8.0\KarakterDegistirme.AssemblyInfo.cs
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakterDegistirme\KarakterDegistirme\obj\Debug\net8.0\KarakterDegistirme.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakterDegistirme\KarakterDegistirme\obj\Debug\net8.0\KarakterDegistirme.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakterDegistirme\KarakterDegistirme\obj\Debug\net8.0\refint\KarakterDegistirme.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakterDegistirme\KarakterDegistirme\obj\Debug\net8.0\KarakterDegistirme.pdb
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakterDegistirme\KarakterDegistirme\obj\Debug\net8.0\KarakterDegistirme.genruntimeconfig.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\KarakterDegistirme\KarakterDegistirme\obj\Debug\net8.0\ref\KarakterDegistirme.dll
