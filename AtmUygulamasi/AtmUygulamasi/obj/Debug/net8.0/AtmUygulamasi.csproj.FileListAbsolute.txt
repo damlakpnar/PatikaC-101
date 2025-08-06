@@ -1,0 +1,14 @@
+C:\Users\damla\OneDrive\Masaüstü\.NET\AtmUygulamasi\AtmUygulamasi\obj\Debug\net8.0\AtmUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damla\OneDrive\Masaüstü\.NET\AtmUygulamasi\AtmUygulamasi\obj\Debug\net8.0\AtmUygulamasi.AssemblyInfoInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\AtmUygulamasi\AtmUygulamasi\obj\Debug\net8.0\AtmUygulamasi.AssemblyInfo.cs
+C:\Users\damla\OneDrive\Masaüstü\.NET\AtmUygulamasi\AtmUygulamasi\obj\Debug\net8.0\AtmUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\AtmUygulamasi\AtmUygulamasi\bin\Debug\net8.0\AtmUygulamasi.exe
+C:\Users\damla\OneDrive\Masaüstü\.NET\AtmUygulamasi\AtmUygulamasi\bin\Debug\net8.0\AtmUygulamasi.deps.json
+C:\Users\damla\OneDrive\Masaüstü\.NET\AtmUygulamasi\AtmUygulamasi\bin\Debug\net8.0\AtmUygulamasi.runtimeconfig.json
+C:\Users\damla\OneDrive\Masaüstü\.NET\AtmUygulamasi\AtmUygulamasi\bin\Debug\net8.0\AtmUygulamasi.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\AtmUygulamasi\AtmUygulamasi\bin\Debug\net8.0\AtmUygulamasi.pdb
+C:\Users\damla\OneDrive\Masaüstü\.NET\AtmUygulamasi\AtmUygulamasi\obj\Debug\net8.0\AtmUygulamasi.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\AtmUygulamasi\AtmUygulamasi\obj\Debug\net8.0\refint\AtmUygulamasi.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\AtmUygulamasi\AtmUygulamasi\obj\Debug\net8.0\AtmUygulamasi.pdb
+C:\Users\damla\OneDrive\Masaüstü\.NET\AtmUygulamasi\AtmUygulamasi\obj\Debug\net8.0\AtmUygulamasi.genruntimeconfig.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\AtmUygulamasi\AtmUygulamasi\obj\Debug\net8.0\ref\AtmUygulamasi.dll
