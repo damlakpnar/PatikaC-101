@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YBGhupBgkyuQTlqh9nNAQ4++IJoRC1+ooAv7s3uj5HvcooruVDWlgxNnUr085K1Ts/avXsMAWCPmVW24LVqrZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\damla\\OneDrive\\Masaüstü\\.NET\\BarcodeUygulamasi\\BarcodeUygulamasi\\BarcodeUygulamasi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damla\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.8\\microsoft.win32.systemevents.9.0.8.nupkg.sha512",
+    "C:\\Users\\damla\\.nuget\\packages\\system.drawing.common\\9.0.8\\system.drawing.common.9.0.8.nupkg.sha512",
+    "C:\\Users\\damla\\.nuget\\packages\\zxing.net\\0.16.10\\zxing.net.0.16.10.nupkg.sha512",
+    "C:\\Users\\damla\\.nuget\\packages\\zxing.net.bindings.windows.compatibility\\0.16.13\\zxing.net.bindings.windows.compatibility.0.16.13.nupkg.sha512"
+  ],
+  "logs": []
+}

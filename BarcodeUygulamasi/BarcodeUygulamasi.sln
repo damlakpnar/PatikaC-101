@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarcodeUygulamasi", "BarcodeUygulamasi\BarcodeUygulamasi.csproj", "{A2E49D7D-FD5C-4081-B674-5DE6A7502B1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2E49D7D-FD5C-4081-B674-5DE6A7502B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E49D7D-FD5C-4081-B674-5DE6A7502B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E49D7D-FD5C-4081-B674-5DE6A7502B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E49D7D-FD5C-4081-B674-5DE6A7502B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24ABD215-31F2-4603-843A-8E34C2D70B21}
+	EndGlobalSection
+EndGlobal
