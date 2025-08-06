@@ -1,0 +1,14 @@
+C:\Users\damla\OneDrive\Masaüstü\.NET\SessizHarf\SessizHarf\obj\Debug\net8.0\SessizHarf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damla\OneDrive\Masaüstü\.NET\SessizHarf\SessizHarf\obj\Debug\net8.0\SessizHarf.AssemblyInfoInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\SessizHarf\SessizHarf\obj\Debug\net8.0\SessizHarf.AssemblyInfo.cs
+C:\Users\damla\OneDrive\Masaüstü\.NET\SessizHarf\SessizHarf\obj\Debug\net8.0\SessizHarf.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\SessizHarf\SessizHarf\bin\Debug\net8.0\SessizHarf.exe
+C:\Users\damla\OneDrive\Masaüstü\.NET\SessizHarf\SessizHarf\bin\Debug\net8.0\SessizHarf.deps.json
+C:\Users\damla\OneDrive\Masaüstü\.NET\SessizHarf\SessizHarf\bin\Debug\net8.0\SessizHarf.runtimeconfig.json
+C:\Users\damla\OneDrive\Masaüstü\.NET\SessizHarf\SessizHarf\bin\Debug\net8.0\SessizHarf.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\SessizHarf\SessizHarf\bin\Debug\net8.0\SessizHarf.pdb
+C:\Users\damla\OneDrive\Masaüstü\.NET\SessizHarf\SessizHarf\obj\Debug\net8.0\SessizHarf.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\SessizHarf\SessizHarf\obj\Debug\net8.0\refint\SessizHarf.dll
+C:\Users\damla\OneDrive\Masaüstü\.NET\SessizHarf\SessizHarf\obj\Debug\net8.0\SessizHarf.pdb
+C:\Users\damla\OneDrive\Masaüstü\.NET\SessizHarf\SessizHarf\obj\Debug\net8.0\SessizHarf.genruntimeconfig.cache
+C:\Users\damla\OneDrive\Masaüstü\.NET\SessizHarf\SessizHarf\obj\Debug\net8.0\ref\SessizHarf.dll
